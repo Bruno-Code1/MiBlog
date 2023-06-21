@@ -548,7 +548,8 @@ html {
     margin: 20px auto;
     padding: 10px 22px;
     font-size: 16px;
-    color: relative;
+    color: #fff;
+    position: relative;
     z-index: 10;
 }
 
